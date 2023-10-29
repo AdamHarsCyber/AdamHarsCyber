@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1>Hi, I'm Adam! Welcome to my GitHub page</h1>
+  
+<h2>I'm doing a complete career change and I'm starting a career in the Cybersecurity Industry </h2>
 
-<!--
-**AdamHarsCyber/AdamHarsCyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>See below for some of my projects💻</h2>
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Using Active Direectory</b>
+  - [Active Directory Home Lab]()
+    
+<h2> 📃 Certifications</h2>
+
+- <b>Google Cybersecurity Analyst Certificate</b>
+  - [Certificate]()
+
+
